@@ -1,7 +1,7 @@
 # Workbook - Deep Learning - Machine Learning - Artificial Intelligence - Playground
 
 ## Tooling
-- this project is built using `uv`
+- this project is built using `pip`
   - install with: `pip install uv`
   - install deps from `requirements.txt` with: `uv pip install -r requirements.txt`
   - install deps from `uv.lock` with: `uv sync`
